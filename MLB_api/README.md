@@ -8,7 +8,7 @@ $ pip -r requirements.txt
 ```
 2. Run the script
 ```
-$ python mlb_stats.py
+$ python main.py
 ```
 3. Get desired results
 ```
