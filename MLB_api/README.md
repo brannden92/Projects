@@ -1,6 +1,11 @@
 # Getting Data from MLB API
 ### Overview
 This program creates Pandas DataFrames from the MLB API where you can get hitting or pitching data specific to the year, how many rows you want the table to be, what statistic to sort the table by, and what game type you want the data.
+
+### Skills used in this project
+- Getting desired information from web API using requests and json packages into readable DataFrames
+- Defining functions and feeding them into each other
+
 ### How to run
 1. Installed required packages
 ```
