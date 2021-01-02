@@ -12,4 +12,4 @@ Web scraping news articles for each of the FAANG stocks from website finbiz.com 
 Sentiment Analysis is the process of determining if a given sentence is positive or negative using a trained model. It is useful to quickly check what the opinion of the stock/company is quickly.
 
 ### Example Picture
-<img src='Big_5_Stocks.png">
+<img src="Big_5_Stocks.png">
